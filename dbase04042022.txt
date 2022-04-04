@@ -1,0 +1,245 @@
+wals.code	obligatory.possession	OP.source	OP.pages	OP.comments	affix.position	AP.source	AP.pages	AP.comments	GN.order	GN.source	GN.pages	GN.comments	glottocode	name	latitude	longitude	macroarea	genus	family	sample.100	sample.200	NAME	
+cre	Exists				Possessive prefixes				Genitive-Noun	Wolfart (1973) https://doi.org/10.2307/1006246	19		plai1258	Cree (Plains)	54,0	-110,0	North America	Algonquian	Algic	TRUE	TRUE	Tom	
+wic	Absent				Possessive prefixes				Genitive-Noun	Rood, David S. "Sketch of Wichita, a Caddoan Language" https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/North%20American/Siouan%20%26%20Caddoan/Wichita%2C%20a%20Caddoan%20Language%2C%20Sketch%20of%20%28Rood%29.pdf	604		wich1260	Wichita	33,3	-97,3	North America	Caddoan	Caddoan	TRUE	TRUE	Tom	
+hin	Absent				No possessive affixes	Outline of Hindi Grammar by R. S. McGregor	8		Genitive-Noun	Outline of Hindi Grammar by R. S. McGregor	9		hind1269	Hindi	25,0	77,0	Eurasia	Indic	Indo-European	TRUE	TRUE	Tom	
+kln	Exists	https://doi.org/10.1515/9781614515241	471	Wals says Kolana doesn't have it, but Schapper & Hendery https://doi.org/10.1515/9781614515241 explicitly say Wersing does have it! This is also commented on the datapoint in wals, remarked by Schapper! http://blog.wals.info/datapoint-58a-wals_code_kln/comment-page-1/#comment-175149	Possessive prefixes	https://doi.org/10.1515/9781614515241	470-471		Genitive-Noun	https://doi.org/10.1515/9781614515241	470-471		kola1287	Kolana	-8,3	125,1	Papunesia	Kolana-Tanglapui	Timor-Alor-Pantar	FALSE	FALSE	Tom	
+pai	Absent				Possessive prefixes	Egli (1990) (https://books.google.nl/books?id=sIGc4yZXtKIC&lpg=PP1&pg=PA155)	155		Noun-Genitive	Egli (1990) (https://books.google.nl/books?id=sIGc4yZXtKIC&lpg=PP1&pg=PA178&redir_esc=y#v=onepage&q&f=false)	178		paiw1248	Paiwan	22,5	120,8	Papunesia	Paiwan	Austronesian	TRUE	TRUE	Tom	
+mrh	Absent				No possessive affixes	Green (1989)	46		Genitive-Noun	Green (1989)	133-4, 268		mari1424	Marrithiyel	-13,8	130,0	Australia	Bringen	Western Daly	FALSE	FALSE	Stella P.	
+diy	Absent	Austin (2021[1981])			No possessive affixes	Austin (2021[1981])	141-151		Genitive-Noun	Austin (2012[1981])	142		dier1241	Diyari	-28,0	139,0	Australia	Central Pama-Nyungan	Pama-Nyungan	FALSE	FALSE	Stella P.	
+koi	Exists	Dutton (1996)	5, 41		No possessive affixes	Dutton (1996)	5, 40	There are possessive markers in suffix position, but they are more like case markers (p. 5) and do not code for person/number/gender. So they are not analysed as pronominal possessive affixes.	Genitive-Noun	Dutton (1993)	56		gras1249	Koiari	-9,5	147,3	Papunesia	Koiarian	Trans-New Guinea	FALSE	FALSE	Stella P.	
+lan	Absent				Possessive suffixes	Noonan (1992)	78, 158-159	Sometimes these suffixes act more like clitics (attach to the end of the NP) but otherwise they attach as suffixes to the (modified) possessed noun (p.159). 	Noun-Genitive	Noonan (1992)	156, 159		lang1324	Lango	2,2	33,0	Africa	Nilotic	Eastern Sudanic	TRUE	TRUE	Stella P.	
+brh	Absent				Possessive suffixes	Elfenbein (2019)	517		Genitive-Noun	Andronov (1980)	97		brah1256	Brahui	28,5	67,0	Eurasia	Northern Dravidian	Dravidian	FALSE	TRUE	Stella P.	
+taw	Exists	Ezard (1997)	150, 262	There is a subclass of (inalienable) nouns that are bound and must be morphologically marked with a pronominal enclitic/suffix.	Possessive suffixes	Ezard & Robert (2011)	760-761	only for kinship terms, relationship terms, body parts and quantifiers	Genitive-Noun	Ezard (1997)	150		tawa1275	Tawala	-10,3	150,7	Papunesia	Oceanic	Austronesian	FALSE	FALSE	Stella P.	
+kay	Absent	Evans (1995)			No possessive affixes	Evans (1995)	151	use of free possessive pronouns	Genitive-Noun	Evans (1995)	235		kaya1319	Kayardild	-17,1	139,5	Australia	Tangkic	Tangkic	TRUE	TRUE	Stella P.	
+bzi	Absent	Kuleti et al. (1980)	20, 23-24		No possessive affixes	Briley (1997); Kuleti et al. (1980)	Briley (1997): 7-8, 61-63; Kuleti et al. (1980): 20, 23-24	 	Genitive-Noun	Kuleti et al. (1980)	23		bauz1241	Bauzi	-2,5	137,5	Papunesia	East Geelvink Bay	East Geelvink Bay	FALSE	FALSE	Stella K.	
+baa	Absent	Olson (1975)	483-484, 491-493		Possessive suffixes	Olson (1975)	483-484		Genitive-Noun	Olson (1975)	490, 493		bara1377	Barai	-9,3	148,1	Papunesia	Koiarian	Trans-New Guinea	FALSE	FALSE	Stella K.	
+yim	Absent	Foley (1991)	176-182		No possessive affixes	Foley (1991)	178-180		Genitive-Noun	Foley (1991)	178		yima1243	Yimas	-4,7	143,6	Papunesia	Lower Sepik	Lower Sepik-Ramu	FALSE	TRUE	Stella K.	
+mpa	Absent	Street (1987), Walsh (1976)	Walsh (1976): 281	 	No possessive affixes	Walsh 1976	281-282		Noun-Genitive	Walsh 1976	281		murr1258	Murrinh-Patha	-14,7	129,7	Australia	Murrinh-Patha	Southern Daly	FALSE	FALSE	Stella K.	
+nkk	Absent				Possessive prefixes								naka1260	Nakkara	-12,1	134,4	Australia	Nakkara	Mangrida	FALSE	FALSE	Stella K.	
+tlf	Exists	Healey (1962)	20		No possessive affixes	Healey (1965a)	8-10		Genitive-Noun	Healey (1965c)	8	Wrong citation. The right one is Healey (1965a: 8)	tele1256	Telefol	-5,0	141,8	Papunesia	Ok	Trans-New Guinea	FALSE	FALSE	Stella K.	
+nai	Absent	Sem (1975), Avrorin (1959)	 		Possessive suffixes	Ko&Yurn (2011)	38	'This suffix has the function of representing possessive relation between a possess(ed) object and a possessor. If a pronoun and a noun possessed by it are connected, a nominative pronoun precedes the possessed noun, after which personal suffix is attached''	Genitive-Noun	Ko&Yurn (2011)	181	The answer was deduced from examples only.	nana1257	Nanai	49,5	137,0	Eurasia	Tungusic	Altaic	FALSE	FALSE	Stella K.	
+hua	Exists	Haiman (1980)	216-218, 254-255, 366-368	Changed from 'Absent' to 'Exists'	Prefixes and suffixes	Haiman (1980)	366, 200, 224		Genitive-Noun	Haiman (1980)	257		yaga1260	Hua	-6,3	145,3	Papunesia	Eastern Highlands	Trans-New Guinea	FALSE	FALSE	Sasha	
+kiu	Exists	Windschuttel & Shiohara (2017)	145	Two N classes, obligatory possessive marking and optional possessive marking	Possessive prefixes	Windschuttel & Shiohara (2017)	144-145	Zero marking ∅ for 2SG oblig. poss. N class 'eye'	Genitive-Noun	Windschuttel & Shiohara (2017)	144		kuii1253	Kui	-8,4	124,6	Papunesia	Greater Alor	Timor-Alor-Pantar	FALSE	FALSE	Sasha	
+nah	Absent	Nagaraja (2014); Kuiper (1962)			Possessive suffixes	Nagaraja (2014)	50, 134-135, 140	-n is used with 3PL form, -na is used with Ns ending in -i, -a, and ∅ (zero) occurs elsewhere	Genitive-Noun	Kuiper (1962); Nagaraja (2014)	263; 50-51, 110-116, 135	Second source only contains examples of GN order.	niha1238	Nahali	19,8	77,8	Eurasia	Nahali	Nahali	FALSE	FALSE	Sasha	
+apu	Absent	Facundes (2000)			Possessive prefixes	Facundes (2000)	146		Genitive-Noun	Facundes (2000)	156-157, 345, 452		apur1254	ApurinÃ£	-9,0	-67,0	South America	Purus	Arawakan	TRUE	TRUE	Sasha	
+rus	Absent			datapoint confirmed by the native speaker	No possessive affixes	Bivon (1971)	passim	source and page taken from WALS; datapoint confirmed by the native speaker	Noun-Genitive	Bivon (1971)	11	source and page taken from WALS; datapoint confirmed by the native speaker	russ1263	Russian	56,0	38,0	Eurasia	Slavic	Indo-European	TRUE	TRUE	Sasha	
+tht	Exists	Flassy & Stockhof (1979); Flassy (1991)	74; 12, 16	Changed from 'Absent' to 'Exists'	Possessive prefixes	Flassy & Stockhof (1979); Flassy (1991) 	74; 9, 12, 16		Genitive-Noun	Flassy (1991); Hesse (2000); Flassy & Stockhof (1979); Reesink (1996)	17; 26-27, 32; 68-69, 74-75; 9, 11-13	Possessive pronouns may either precede or follow the nouns (before the N seems to be the dominant position) but for N-N constructions, the order is based on examples, where all examples are GenN. Reesink (1996: 13) explicitely states that in all Ls of the Bird's Head, the order is GenN.	tehi1237	Tehit	-1,5	132,0	Papunesia	West Bird's Head	West Papuan	FALSE	FALSE	Sasha	
+nug	Absent				No possessive affixes	Horrack (2018)	41-51		No dominant order	 			nung1290	Nunggubuyu	-13,8	135,7	Australia	Nunggubuyu	Gunwinyguan	FALSE	TRUE	Rik	
+nyn	Absent				Possessive prefixes	Stokes (1982)	45-52	There is both prefixing and suffixing, but the former is more abundant and more productive	No dominant order	 			nyig1240	Nyigina	-18,0	124,3	Australia	Nyulnyulan	Nyulnyulan	FALSE	FALSE	Rik	
+cin	Exists	Applegate, (1972). 	p.236		Possessive prefixes	Applegate, (1972)	p.235		Noun-Genitive	Applegate, (1972). 	p.235		ines1240	Chumash (IneseÃ±o)	34,7	-120,3	North America	Chumash	Chumash	FALSE	FALSE	Matilde	
+dig	Absent	Devi Prasada Sastry, (1984)			No possessive affixes	Devi Prasada Sastry, (1984)	p. 45	juxtaposition of possessor-possessed	Genitive-Noun	Devi Prasada Sastry, (1984)	p.171		diga1241	Digaro	28,4	96,0	Eurasia	Digaroan	Sino-Tibetan	FALSE	FALSE	Matilde	
+hmo	Absent				No possessive affixes	Mortensen (2019) 	622 and 645	Tendency towards isolating	Genitive-Noun	Mortensen (2019) 	622		huam1250	Hmong Njua	28,0	105,0	Eurasia	Hmong-Mien	Hmong-Mien	TRUE	TRUE	Matilde	
+kho	Exists	Hagman, (1973)	p.73		No possessive affixes	Hagman, (1973)	p.71-72	dependent suffix marking	Genitive-Noun	Hagman, (1973)	p. 71-72		nama1264	Nama	-25,5	18,0	Africa	Khoe-Kwadi	Khoe-Kwadi	TRUE	TRUE	Matilde	
+tgp	Exists	Kratochvíl, (2014)	p.388		Possessive prefixes	Kratochvíl, (2014)	p.388		Genitive-Noun	Kratochvíl, (2014)	p.388		sawi1256	Tanglapui	-8,3	125,1	Papunesia	Kolana-Tanglapui	Timor-Alor-Pantar	FALSE	FALSE	Matilde	
+mlk	Absent				No possessive affixes	Birk (1976)	106		No dominant order	Birk (1976)	106		mull1237	Malakmalak	-13,4	130,4	Australia	Northern Daly	Northern Daly	FALSE	FALSE	Matilde	
+ori	Absent	Schadeberg, (1979)			No possessive affixes	Schadeberg, (1979)	p. 45	genitive postposition	Noun-Genitive	Schadeberg, (1979)	p.46		tega1236	Orig	12,2	30,8	Africa	Rashad	Kordofanian	FALSE	FALSE	Matilde	
+cho	Exists	Turner, Paul Raymond. 1966			Possessive prefixes	Turner, Paul Raymond. 1966	18		Noun-Genitive	Turner, Paul Raymond. 1966	18, 27	deduced only by examples	high1242	Chontal (Highland)	16,3	-95,8	North America	Tequistlatecan	Tequistlatecan	FALSE	FALSE	Matilde	
+mdk	Absent	Drame, 1981			Possessive suffixes	Drame, 1981	p.70		Genitive-Noun	Drame, 1981	p.70		mand1436	Mandinka	13,0	-15,7	Africa	Western Mande	Mande	FALSE	FALSE	Matilde	
+awp	Absent	Curnow (1998)			No possessive affixes	Curnow (1998)	125	Possessive postposition/clitic in some cases	Genitive-Noun	Curnow (1998)	125		awac1239	Awa Pit	1,5	-78,3	South America	Barbacoan	Barbacoan	FALSE	TRUE	Jonathan	
+bsq	Absent	Lafitte (1962)			Possessive suffixes	Hualde (2011)	183	genitive case marking	Genitive-Noun	Hualde (2011)	183		basq1248	Basque	43,0	-3,0	Eurasia	Basque	Basque	TRUE	TRUE	Jonathan	
+ik	Absent	Tucker (1973)			Possessive suffixes	Schrock (2017)	530	genitive case marking	No dominant order	Schrock (2017)	530	order leaning towards N.Gen	ikkk1242	Ik	3,8	34,2	Africa	Kuliak	Eastern Sudanic	FALSE	FALSE	Jonathan	
+mto	Absent	Das (1973)			Possessive suffixes	Puttaswamy (2018)	p79-104		Genitive-Noun	Puttaswamy (2018)	p79-104		kuma1274	Malto	25,0	87,3	Eurasia	Northern Dravidian	Dravidian	FALSE	FALSE	Jonathan	
+pso	Absent	Moshinsky (1974)			Possessive suffixes	Moshinsky (1970)	164	double suffix for alienable possession	Genitive-Noun	Moshinsky (1970)	164		sout2982	Pomo (Southeastern)	39,0	-122,5	North America	Pomoan	Hokan	FALSE	TRUE	Jonathan	
+ntu	Absent	Salminen (1999)			Possessive suffixes	Nikolaeva (2014)	67		Genitive-Noun	Nikolaeva (2014)	143	Not when with a pronominal possessor	nene1249	Nenets	70,0	76,0	Eurasia	Samoyedic	Uralic	FALSE	FALSE	Jonathan	
+eka	Exists	Boelaars (1950)			Possessive suffixes	Doble (1987)	p65	Some exceptions	Genitive-Noun	Doble (1987)	p65	Irregular NGen	ekar1243	Ekari	-3,8	135,5	Papunesia	Wissel Lakes-Kemandoga	Trans-New Guinea	FALSE	TRUE	Jonathan	
+tib	Absent	Denwood (1999)	87	Page is for section describing nouns and NPs - nothing like obligatory posession mentioned	No possessive affixes	Denwood (1999)	87	Page is for section describing nouns and NPs - PA not mentioned	Genitive-Noun	Denwood (1999)	101	Overtly stated and examplified	tibe1272	Tibetan (Standard Spoken)	30,0	91,0	Eurasia	Bodic	Sino-Tibetan	FALSE	FALSE	Håvard	
+brm	Absent	Soe (1999)	19	Not mentioned anywhere in discussion of nouns or noun types	No possessive affixes	Soe (1999)	45	Not explicitly stated to not exist	Genitive-Noun	Soe (1999)	45	Overtly stated	nucl1310	Burmese	21,0	96,0	Eurasia	Burmese-Lolo	Sino-Tibetan	TRUE	TRUE	Håvard	
+amp	Absent	(Green, 2005)	55, 62	Not mentioned - the grammar is a learner's grammar, but in good linguistic style, and it discusses both possesion of kinship terms and body parts with language such as "can take endings"	Possessive suffixes	(Green, 2005)	62	Possessive suffixes only appear on kinship terms	No dominant order	(Green, 2005)	32	Both orderes given as possible with no indication of a preferred order	east2379	Arrernte (Mparntwe)	-24,0	136,0	Australia	Central Pama-Nyungan	Pama-Nyungan	FALSE	FALSE	Håvard	
+yli	Exists	(Fahner, 1979)	27, 156	Not explicitly stated, but for consonant-initial nouns, a zero prefix is the third person singular possessive, and in the word list at the end, all body part nouns are cited in a possessive form (1ps, apart from 'vulva', which is 3ps). Wals wrong here?	Possessive prefixes	(Fahner, 1979)	27			(Fahner, 1979)	181, 189	Not explicitly stated, only 3 examples found in the text samples (All Gen-N)	angg1239	Yali	-4,0	139,3	Papunesia	Dani	Trans-New Guinea	FALSE	FALSE	Håvard	
+knp	Absent	Carrol (2016)	63, 102	Not mentioned in Noun Morphology or Noun Syntax sections, nor does it seem to appear anywhere else	No possessive affixes	Carrol (2016)	63, 102	Not mentioned in Noun Morphology or Noun Syntax sections, nor does it seem to appear anywhere else	Genitive-Noun	Carrol (2016)	78, 114	Example on 78, statement that NP is head final on 114	ngka1235	Kanum (NgkÃ¢lmpw)	-8,7	140,9	Papunesia	Morehead and Upper Maro Rivers	Morehead and Upper Maro Rivers	FALSE	FALSE	Håvard	Grammar is for "Ngkolmpu" - this is probably the same, but this table has a rendering error in the name
+dyi	Absent	Dixon (1972)	44, 49, 105	Absent in discussions of noun affixes, possesion and pronouns	No possessive affixes	Dixon (1972)	44, 49, 105, 409	Absent in discussions of noun affixes, possesion, pronouns, and in the list of affixes	Genitive-Noun	Dixon (1972)	107	Explicitly stated and examplified - the language is non-configurational, and shows extreme permissiveness in word order	dyir1250	Dyirbal	-17,8	145,6	Australia	Northern Pama-Nyungan	Pama-Nyungan	FALSE	FALSE	Håvard	
+wrl	Absent	Reece (1970), Simpson (1983)		Not mentioned in Reece (1970), but the grammar is quite old and bad. Not seen in Simpson (1983) either.	Possessive suffixes	Reece (1970)	85	Possessive suffixes only appear on certain kinship nouns, in which case they share their form with subject suffixes	Noun-Genitive	Reece (1970), Simpson (1983)	192, 191 - 304, 307, 331, 332 	Language is "non-configurational" - though not explicitly stated for the NP, many examples of both N-Gen orders are found	warl1254	Warlpiri	-20,0	132,3	Australia	Western Pama-Nyungan	Pama-Nyungan	FALSE	FALSE	Håvard	
+alw	Absent	Sharpe, Margaret C. 1972. Alawa Phonology and Grammar. Canberra: Australian Institute of Aboriginal Studies.			Possessive suffixes	Sharpe, Margaret C. 1972. Alawa Phonology and Grammar. Canberra: Australian Institute of Aboriginal Studies.	59		Genitive-Noun	Sharpe, Margaret C. 1972. Alawa Phonology and Grammar. Canberra: Australian Institute of Aboriginal Studies.	60		alaw1244	Alawa	-15,2	134,3	Australia	Alawa	Mangarrayi-Maran	FALSE	FALSE	Elizabeth	
+lda	Absent				Possessive suffixes	Crabtree, William Arther "Elements of Luganda Grammar"	19		Noun-Genitive	Crabtree, William Arther "Elements of Luganda Grammar"	19		gand1255	Luganda	0,5	32,2	Africa	Bantoid	Niger-Congo	FALSE	FALSE	elizabeth	
+swa	Absent				Possessive suffixes	Swahili Learners' Reference Grammar. African Language Learners' Reference Grammar Series.	92		Noun-Genitive	Swahili Learners' Reference Grammar. African Language Learners' Reference Grammar Series.	92		swah1253	Swahili	-6,5	39,0	Africa	Bantoid	Niger-Congo	TRUE	TRUE	elizabeth	
+kat	Absent				Possessive suffixes	Schneuker, Carl L. 1962. Kâte Language Handbook. Madang: Madang, New Guinea: Lutheran Mission Press. 167pp.	11	 	Genitive-Noun	Schneuker, Carl L. 1962. Kâte Language Handbook. Madang: Madang, New Guinea: Lutheran Mission Press. 167pp.	11		kate1253	KÃ¢te	-6,5	147,8	Papunesia	Finisterre-Huon	Trans-New Guinea	FALSE	FALSE	elizabeth	
+maa	Absent				Possessive prefixes	Storto (2008) Agreement in Masai and the Syntax of Possesive DPs	196		Noun-Genitive	Storto (2008) Agreement in Masai and the Syntax of Possesive DPs	195		masa1300	Maasai	-3,0	36,0	Africa	Nilotic	Eastern Sudanic	FALSE	FALSE	elizabeth	
+nan	Absent				Possessive suffixes	Ken Lodge, Kalenjin phonology and morphology: A further exemplification of underspecification and non-destructive phonology, Lingua, Volume 96, Issue 1, 1995,	34		Noun-Genitive	Ken Lodge, Kalenjin phonology and morphology: A further exemplification of underspecification and non-destructive phonology, Lingua, Volume 96, Issue 1, 1995,	34		nand1266	Nandi	0,3	35,0	Africa	Nilotic	Eastern Sudanic	FALSE	FALSE	elizabeth	
+brk	Absent				Possessive suffixes	Peter Westrum. 1988. Berik Grammar Sketch. Irian XVI. 133-181.	143	only occur in Gen-Noun ordered phrases	No dominant order	Peter Westrum. 1988. Berik Grammar Sketch. Irian XVI. 133-181.	143		beri1254	Berik	-2,3	138,8	Papunesia	Tor	Tor-Orya	FALSE	FALSE	Elizabeth	
+brr	Exists	Crowell 1979	214-7	Clear distinction between three possession types	Possessive prefixes	Crowell 1979	214-7		Genitive-Noun	Crowell 1979	214-7		boro1282	Bororo	-16,0	-57,0	South America	Bororoan	Bororoan	FALSE	FALSE	David	
+chy	Exists	Rojas Berscia 2019	68	Haart (1988:260), WALS' source, gives some examples of inalienably possessed nouns and Rojas Berscia (2019:68) shows two different paradigms for alienable and inalienable nouns.	Possessive suffixes	Rojas Berscia 2019	68		Genitive-Noun	Haart 1988	260		chay1248	Chayahuita	-5,5	-77,0	South America	Cahuapanan	Cahuapanan	FALSE	FALSE	David	
+pnr	Exists	Payne & Payne 2013	74-82	Both WALS source (Payne & Carlson 1989:103) and Payne & Payne (2013:74) show clear differences between inalienable and alienable nouns	Possessive prefixes	Payne & Payne 2013	74-82		Genitive-Noun	Payne & Payne 2013	74-82		enap1235	Panare	6,5	-66,0	South America	Cariban	Cariban	FALSE	FALSE	David	
+prh	Absent	Everett 1986	272		No possessive affixes	Everett 1986	272		Genitive-Noun	Everett 1986	272		pira1253	PirahÃ£	-7,0	-62,0	South America	Mura	Mura	TRUE	TRUE	David	
+otm	Absent				No possessive affixes	Hess 1968	32-33; 49-50	Only for the examples. Also supported by its sister language (Palancar 2009)	Noun-Genitive				mezq1235	OtomÃ­ (Mezquital)	20,2	-99,2	North America	Otomian	Oto-Manguean	TRUE	TRUE	David	
+tot	Exists	MacKay 1999	347-52		Possessive prefixes	MacKay 1999	347-52		Noun-Genitive	MacKay 1999	347-52		yecu1235	Totonac (Misantla)	19,9	-96,9	North America	Totonacan	Totonacan	FALSE	FALSE	David	
+buu	Absent				No possessive affixes	Grimes (1991)	190	 Genitive marking on the possessor, bare possessed noun	Genitive-Noun				buru1303	Buru	-3,5	126,5	Papunesia	Central Malayo-Polynesian	Austronesian	FALSE	FALSE	Alejandro	
+cjo	Exists				No possessive affixes	Lastra de Suárez (2014)	47	Two strategies: change in form if inalienable; and preposing a classifier if alienable	Genitive-Noun	Lastra de Suárez (2014)	53		chic1272	Chichimeca-Jonaz	21,7	-100,5	North America	Chichimec	Oto-Manguean	FALSE	FALSE	Alejandro	
+ctm	Exists			Grammar (which is rather directed towards language learning) does not seem to mention obligatory possession	No possessive affixes				Genitive-Noun				chit1248	Chitimacha	29,7	-91,0	North America	Chitimacha	Chitimacha	FALSE	FALSE	Alejandro	
+lim	Absent	van driem (1987)		Wals says it exists using the same source, but there is no mention of it in the grammar and bare forms are shown in examples with no further comments	Possessive prefixes	van Driem (1987)	26-27	1SG, 2SG and 3SG have special possessive form; dual and plural pronous are prefixed "integrally" to the noun they possess	Genitive-Noun				limb1266	Limbu	27,2	87,8	Eurasia	Mahakiranti	Sino-Tibetan	FALSE	FALSE	Alejandro	
+nar	Absent				No possessive affixes	Thompson (1976)	486	Possessive pronouns (presumably free) precede the noun	Genitive-Noun				nara1262	Nara (in Ethiopia)	15,1	37,6	Africa	Nara	Eastern Sudanic	FALSE	FALSE	Alejandro	
+knu	Exists	Müller (1954)	22	Talks about possibly inalienable-alienable possession, "possessio ad intra" and "possessio ad extra". Not sure if this could mean obligatory too, but in the wordlist no nouns appear with the possessive glued to it	Possessive suffixes	Müller (1954)	22		Genitive-Noun	Müller (1954)	18		rapo1238	Konua	-5,8	154,8	Papunesia	West Bougainville	West Bougainville	FALSE	FALSE	Alejandro	
+zul	Absent	Poulos & Msimang (1998)		See also Doke (1927)	No possessive affixes	Poulos & Msimang (1998)	144		Noun-Genitive	Ziervogel et al. (1981)	118, 124-125, 128-129		zulu1248	Zulu	-30,0	30,0	Africa	Bantoid	Niger-Congo	TRUE	TRUE	Alba	
+syu	Absent	Irwin (1974)			Possessive suffixes	Irwin (1974)	28-29		No dominant order	Irwin 1974	28-29		salt1242	Salt-Yui	-6,3	145,0	Papunesia	Chimbu	Trans-New Guinea	FALSE	FALSE	Alba	
+diz	Absent	Claudi & Serzisko (1985)	150	Debate on -kn being a locative or genitive (as Beachy, 2005: 71 states). If the second, there can be inalienability in the language, observed in firsts studies on the language by Allan (1976: 381)	Prefixes and suffixes	Beachy (2005)	56, 65	Dizin mainly marks possession through a set of separate possessive pronouns (Beachy, 2005: 56). However, both prefixes and suffixes can be found.	No dominant order	Beachy (2005)	56, 71	There are two distinct constructions: Gen-N (with a separate set of possessor pronouns preceding the N) and N-Gen (possession marked by case, which is suffixed)	dizi1235	Dizi	6,2	36,5	Africa	Dizoid	Afro-Asiatic	FALSE	FALSE	Alba	
+tag	Absent	Kroeger (1993)		See also Schachter & Otanes (1972); Himmelmann (1999)	No possessive affixes	Schachter & Otanes (1972)	134-138		Noun-Genitive	Schachter & Otanes (1972)	136		taga1270	Tagalog	15,0	121,0	Papunesia	Greater Central Philippine	Austronesian	TRUE	TRUE	Alba	
+arp	Absent	Conrad and Wogiga (1991)	57		No possessive affixes	Conrad and Wogiga (1991)	65, 59	There is a suffix -i, but it only affects the pronouns. There is a possessive marker -i in nouns, but it's a clitic.	No dominant order	Conrad and Wogiga (1991)	57		buki1249	Arapesh (Mountain)	-3,5	143,2	Papunesia	Kombio-Arapesh	Torricelli	TRUE	TRUE	Alba	
+kor	Absent	Chang (1996)		See also Sohn (1994)	Possessive suffixes	Sohn (1994)	174		Genitive-Noun	Sohn (1999)	265, 293	See also Ramstedt (1968: 42)	kore1280	Korean	37,5	128,0	Eurasia	Korean	Korean	TRUE	TRUE	Alba	
+lug	Absent	Crazzolara (1960)			No possessive affixes	Crazzolara (1960)	20		Genitive-Noun	Crazzolara (1960)	20-21	See also Barr (1965: 59-60)            	lugb1240	Lugbara	3,1	30,9	Africa	Moru-Ma'di	Central Sudanic	FALSE	FALSE	Alba	
+nim	Absent	Anceaux (1965)		Nominal morphology is unelaborated in the grammar, but the only nominal inflection is (non-obligatory) possession in kinship terms	Possessive prefixes	Anceaux (1965)	169		No dominant order	Foley (2018)	448	There are three distinct constructions: one Gen-N (possessive prefixation) and two N-Gen (with the postposition -de, which marks nominal possession; and a possessive marker -mbe following pronouns)	nucl1633	Nimboran	-2,5	140,2	Papunesia	Nimboran	Nimboran	FALSE	FALSE	Alba	
+rap	Absent	Du Feu (1996)			No possessive affixes	Kieviet (2017)	281	Possessive constructions in Rapa Nui are defined by the use of possessive prepositions o and 'a, depending on the semantic relationship between the possessor and the possessee.	Noun-Genitive	Chapin (1978)	150		rapa1244	Rapanui	-27,1	-109,4	Papunesia	Oceanic	Austronesian	TRUE	TRUE	Alba	
+ain	Absent				Possessive prefixes				Genitive-Noun				ainu1240	Ainu	43,0	143,0	Eurasia	Ainu	Ainu	FALSE	TRUE		
+ane	Absent				Possessive suffixes				No dominant order				anem1249	AnÃªm	-5,6	149,1	Papunesia	AnÃªm	AnÃªm	FALSE	FALSE		
+pau	Absent				Prefixes and suffixes				Genitive-Noun				paum1247	PaumarÃ­	-6,0	-64,0	South America	Arauan	Arauan	FALSE	TRUE		
+map	Absent				No possessive affixes				Genitive-Noun				mapu1245	Mapudungun	-38,0	-72,0	South America	Araucanian	Araucanian	TRUE	TRUE		
+arm	Absent				Possessive suffixes				Genitive-Noun				nucl1235	Armenian (Eastern)	40,0	45,0	Eurasia	Armenian	Indo-European	FALSE	TRUE		
+asm	Exists				No possessive affixes				Genitive-Noun				tamn1235	Asmat	-5,5	138,5	Papunesia	Asmat-Kamoro	Trans-New Guinea	TRUE	TRUE		
+sla	Absent				Possessive prefixes				Genitive-Noun				slav1253	Slave	67,0	-125,0	North America	Athapaskan	Na-Dene	TRUE	TRUE		
+aym	Absent				Possessive suffixes				Genitive-Noun				cent2142	Aymara (Central)	-17,0	-69,0	South America	Aymaran	Aymaran	FALSE	TRUE		
+luv	Absent				Possessive suffixes				Noun-Genitive				luva1239	Luvale	-12,0	22,0	Africa	Bantoid	Niger-Congo	TRUE	TRUE		
+mal	Absent				No possessive affixes				Noun-Genitive				plat1254	Malagasy	-20,0	47,0	Africa	Barito	Austronesian	TRUE	TRUE		
+bej	Absent				Possessive suffixes				Genitive-Noun				beja1238	Beja	18,0	36,0	Africa	Beja	Afro-Asiatic	FALSE	TRUE		
+bma	Absent				Possessive suffixes				Noun-Genitive				cent2194	Berber (Middle Atlas)	33,0	-5,0	Africa	Berber	Afro-Asiatic	TRUE	TRUE		
+sue	Absent				No possessive affixes				Genitive-Noun				suen1241	Suena	-7,8	147,6	Papunesia	Binanderean	Trans-New Guinea	FALSE	TRUE		
+mrg	Absent				Possessive suffixes				Noun-Genitive				marg1265	Margi	11,0	13,0	Africa	Biu-Mandara	Afro-Asiatic	FALSE	FALSE		
+ter	Absent				Possessive suffixes				Noun-Genitive				tera1251	Tera	11,0	11,8	Africa	Biu-Mandara	Afro-Asiatic	FALSE	FALSE		
+bag	Absent				Possessive suffixes				Noun-Genitive				bagi1246	Bagirmi	11,7	16,0	Africa	Bongo-Bagirmi	Central Sudanic	TRUE	TRUE		
+imo	Absent				No possessive affixes				Genitive-Noun				imon1245	Imonda	-3,3	141,2	Papunesia	Border	Border	TRUE	TRUE		
+wrs	Absent												wari1266	Waris	-3,2	141,0	Papunesia	Border	Border	FALSE	FALSE		
+goo	Absent				Possessive suffixes				No dominant order				goon1238	Gooniyandi	-18,3	126,3	Australia	Bunuban	Bunuban	TRUE	TRUE		
+bur	Exists				Possessive prefixes				Genitive-Noun				buru1296	Burushaski	36,5	74,5	Eurasia	Burushaski	Burushaski	TRUE	TRUE		
+pwn	Exists				Possessive prefixes				Genitive-Noun				pawn1254	Pawnee	41,0	-98,7	North America	Caddoan	Caddoan	FALSE	FALSE		
+yaq	Absent				No possessive affixes				Genitive-Noun				yaqu1251	Yaqui	27,5	-110,3	North America	Cahita	Uto-Aztecan	TRUE	TRUE		
+hix	Exists				Possessive prefixes				Genitive-Noun				hixk1239	Hixkaryana	-1,0	-59,0	South America	Cariban	Cariban	TRUE	TRUE		
+cyv	Absent				Prefixes and suffixes				Noun-Genitive				cayu1262	Cayuvava	-13,5	-65,5	South America	Cayuvava	Cayuvava	FALSE	TRUE		
+tuk	Absent				No possessive affixes				Noun-Genitive				tuka1247	Tukang Besi	-5,5	123,5	Papunesia	Celebic	Austronesian	TRUE	TRUE		
+squ	Absent				Prefixes and suffixes				Noun-Genitive				squa1248	Squamish	49,7	-123,2	North America	Central Salish	Salishan	FALSE	TRUE		
+cha	Absent				Possessive suffixes				Noun-Genitive				cham1312	Chamorro	13,5	144,8	Papunesia	Chamorro	Austronesian	TRUE	TRUE		
+war	Absent				Possessive suffixes				Noun-Genitive				wari1268	Wari'	-11,3	-65,0	South America	Chapacura-Wanham	Chapacura-Wanham	TRUE	TRUE		
+qui	Exists				Possessive suffixes				Noun-Genitive				quil1240	Quileute	47,9	-124,3	North America	Chimakuan	Chimakuan	FALSE	FALSE		
+chi	Absent				Prefixes and suffixes				Genitive-Noun				chim1301	Chimariko	41,0	-123,0	North America	Chimariko	Hokan	FALSE	FALSE		
+mnd	Absent				No possessive affixes				Genitive-Noun				mand1415	Mandarin	34,0	110,0	Eurasia	Chinese	Sino-Tibetan	TRUE	TRUE		
+epe	Exists				No possessive affixes				Genitive-Noun				epen1239	Epena Pedee	3,0	-77,0	South America	Choco	Choco	FALSE	TRUE		
+lkt	Absent				Possessive prefixes				No dominant order				lako1247	Lakhota	43,8	-101,8	North America	Core Siouan	Siouan	TRUE	TRUE		
+dag	Absent				Possessive suffixes				Genitive-Noun				daga1275	Daga	-10,0	149,3	Papunesia	Dagan	Dagan	TRUE	TRUE		
+dni	Exists				Possessive prefixes				Genitive-Noun				lowe1415	Dani (Lower Grand Valley)	-4,3	138,8	Papunesia	Dani	Trans-New Guinea	TRUE	TRUE		
+yor	Absent				No possessive affixes				Noun-Genitive				yoru1245	Yoruba	8,0	4,3	Africa	Defoid	Niger-Congo	TRUE	TRUE		
+mot	Absent				Possessive prefixes				Genitive-Noun				siwa1245	Motuna	-6,6	155,4	Papunesia	East Bougainville	East Bougainville	FALSE	FALSE		
+kew	Absent				No possessive affixes				Genitive-Noun				kewa1250	Kewa	-6,5	143,8	Papunesia	Engan	Trans-New Guinea	TRUE	TRUE		
+grw	Absent				Possessive suffixes				Genitive-Noun				kala1399	Greenlandic (West)	64,0	-51,0	Eurasia	Eskimo	Eskimo-Aleut	TRUE	TRUE		
+fin	Absent				Possessive suffixes				Genitive-Noun				finn1318	Finnish	62,0	25,0	Eurasia	Finnic	Uralic	TRUE	TRUE		
+fur	Absent				No possessive affixes				Genitive-Noun				furr1244	Fur	13,5	25,0	Africa	Fur	Fur	FALSE	TRUE		
+grr	Absent				No possessive affixes				Genitive-Noun				gara1269	Garrwa	-17,1	137,2	Australia	Garrwan	Garrwan	FALSE	FALSE		
+gbb	Absent				Possessive suffixes				Noun-Genitive				gbay1287	Gbeya Bossangoa	6,7	17,5	Africa	Gbaya-Manza-Ngbaka	Niger-Congo	FALSE	FALSE		
+cnl	Exists				Possessive prefixes				Genitive-Noun				cane1242	Canela	-7,0	-45,0	South America	Ge-Kaingang	Macro-Ge	FALSE	FALSE		
+eng	Absent				No possessive affixes				No dominant order				stan1293	English	52,0	0,0	Eurasia	Germanic	Indo-European	TRUE	TRUE		
+ger	Absent				No possessive affixes				Noun-Genitive				stan1295	German	52,0	10,0	Eurasia	Germanic	Indo-European	TRUE	TRUE		
+grk	Absent				No possessive affixes				Noun-Genitive				mode1248	Greek (Modern)	39,0	22,0	Eurasia	Greek	Indo-European	TRUE	TRUE		
+gmz	Absent				Possessive suffixes				Noun-Genitive				gumu1244	Gumuz	12,5	35,8	Africa	Gumuz	Gumuz	FALSE	FALSE		
+hai	Exists				No possessive affixes				Genitive-Noun				haid1248	Haida	53,0	-132,0	North America	Haida	Haida	FALSE	TRUE		
+hat	Exists				Possessive prefixes				Genitive-Noun				hata1243	Hatam	-1,0	134,0	Papunesia	Hatam	West Papuan	FALSE	FALSE		
+hve	Absent				Possessive prefixes				Noun-Genitive				sanm1287	Huave (San Mateo del Mar)	16,2	-95,0	North America	Huavean	Huavean	FALSE	FALSE		
+ijo	Absent				Possessive prefixes				Genitive-Noun				izon1238	Ijo (Kolokuma)	4,9	5,7	Africa	Ijoid	Ijoid	FALSE	FALSE		
+res	Exists				Possessive prefixes				Genitive-Noun				resi1247	ResÃ­garo	-2,4	-71,5	South America	Inland Northern Arawakan	Arawakan	FALSE	FALSE		
+prs	Absent				No possessive affixes				Noun-Genitive				west2369	Persian	32,0	54,0	Eurasia	Iranian	Indo-European	TRUE	TRUE		
+oss	Exists				No possessive affixes				Genitive-Noun				osse1243	Ossetic	43,0	44,0	Eurasia	Iranian	Indo-European	FALSE	FALSE		
+mau	Absent				Possessive prefixes				Genitive-Noun				maun1240	Maung	-11,9	133,5	Australia	Iwaidjan	Iwaidjan	TRUE	TRUE		
+jpn	Absent				No possessive affixes				Genitive-Noun				nucl1643	Japanese	37,0	140,0	Eurasia	Japanese	Japanese	TRUE	TRUE		
+juh	Absent				No possessive affixes				Genitive-Noun				juho1239	Ju|'hoan	-19,0	21,0	Africa	Ju-Kung	Kxa	FALSE	TRUE		
+kro	Absent				No possessive affixes				Noun-Genitive				kron1241	Krongo	10,5	30,0	Africa	Kadugli	Kadu	TRUE	TRUE		
+tha	Absent				No possessive affixes				Noun-Genitive				thai1261	Thai	16,0	101,0	Eurasia	Kam-Tai	Tai-Kadai	TRUE	TRUE		
+kri	Absent				Possessive prefixes				Noun-Genitive				kari1255	Kipea	-10,0	-37,0	South America	Kariri	Kariri	FALSE	FALSE		
+krk	Exists				Possessive prefixes				Genitive-Noun				karo1304	Karok	41,7	-123,0	North America	Karok	Karok	TRUE	TRUE		
+geo	Absent				No possessive affixes				Genitive-Noun				nucl1302	Georgian	42,0	44,0	Eurasia	Kartvelian	Kartvelian	TRUE	TRUE		
+aco	Exists				Possessive prefixes				Genitive-Noun				west2632	Acoma	34,9	-107,6	North America	Keresan	Keresan	TRUE	TRUE		
+khs	Absent				No possessive affixes				Noun-Genitive				khas1269	Khasi	25,5	92,0	Eurasia	Khasian	Austro-Asiatic	FALSE	TRUE		
+kio	Absent				Possessive prefixes				Genitive-Noun				kiow1266	Kiowa	37,0	-99,0	North America	Kiowa-Tanoan	Kiowa-Tanoan	TRUE	TRUE		
+kim	Absent								Genitive-Noun				kima1246	Kimaghama	-8,0	138,5	Papunesia	Kolopom	Kolopom	FALSE	FALSE		
+grb	Absent				No possessive affixes				Genitive-Noun				barc1235	Grebo	5,0	-8,0	Africa	Kru	Niger-Congo	TRUE	TRUE		
+mei	Absent				Possessive prefixes				Genitive-Noun				mani1292	Meithei	24,8	94,0	Eurasia	Kuki-Chin	Sino-Tibetan	TRUE	TRUE		
+knm	Absent				Possessive suffixes				Genitive-Noun				kuna1268	Kunama	14,5	37,0	Africa	Kunama	Kunama	FALSE	TRUE		
+kut	Exists				Possessive suffixes				Noun-Genitive				kute1249	Kutenai	49,5	-116,0	North America	Kutenai	Kutenai	TRUE	TRUE		
+ewe	Absent				Possessive suffixes				Genitive-Noun				ewee1241	Ewe	6,3	0,4	Africa	Kwa	Niger-Congo	FALSE	TRUE		
+iau	Absent								Genitive-Noun				iauu1242	Iau	-3,2	137,5	Papunesia	Lakes Plain	Lakes Plain	FALSE	FALSE		
+lav	Absent				Possessive prefixes				Genitive-Noun				lavu1241	Lavukaleve	-9,1	159,2	Papunesia	Lavukaleve	Solomons East Papuan	TRUE	TRUE		
+lez	Absent				No possessive affixes				Genitive-Noun				lezg1247	Lezgian	41,7	47,8	Eurasia	Lezgic	Nakh-Daghestanian	TRUE	TRUE		
+orh	Absent				No possessive affixes				Noun-Genitive				east2652	Oromo (Harar)	9,0	42,0	Africa	Lowland East Cushitic	Afro-Asiatic	TRUE	TRUE		
+kob	Absent				Possessive prefixes				Genitive-Noun				kobo1249	Kobon	-5,2	144,3	Papunesia	Madang	Trans-New Guinea	FALSE	TRUE		
+tau	Absent				Possessive prefixes				Genitive-Noun				tauy1241	Tauya	-5,8	145,3	Papunesia	Madang	Trans-New Guinea	FALSE	FALSE		
+wsk	Absent				Possessive prefixes				Genitive-Noun				wask1241	Waskia	-4,5	146,0	Papunesia	Madang	Trans-New Guinea	FALSE	FALSE		
+ame	Absent				Possessive suffixes				Genitive-Noun				amel1241	Amele	-5,3	145,6	Papunesia	Madang	Trans-New Guinea	TRUE	TRUE		
+bel	Exists				Possessive prefixes				Genitive-Noun				belh1239	Belhare	27,0	87,3	Eurasia	Mahakiranti	Sino-Tibetan	FALSE	FALSE		
+mne	Exists				Possessive prefixes				Genitive-Noun				nort2952	Maidu (Northeast)	40,0	-120,7	North America	Maiduan	Penutian	FALSE	FALSE		
+ind	Absent				No possessive affixes				Noun-Genitive				indo1316	Indonesian	0,0	106,0	Papunesia	Malayo-Sumbawan	Austronesian	TRUE	TRUE		
+myi	Absent				Possessive suffixes				No dominant order				mang1381	Mangarrayi	-14,7	133,5	Australia	Mangarrayi	Mangarrayi-Maran	TRUE	TRUE		
+boa	Absent				Possessive prefixes								kuni1265	Boazi	-7,0	141,3	Papunesia	Marind	Anim	FALSE	FALSE		
+wch	Exists				Possessive prefixes				Genitive-Noun				wich1264	WichÃ­	-22,5	-62,6	South America	Matacoan	Matacoan	TRUE	TRUE		
+jak	Absent				Possessive prefixes				Noun-Genitive				popt1235	Jakaltek	15,7	-91,7	North America	Mayan	Mayan	TRUE	TRUE		
+tzu	Exists				Possessive prefixes				Noun-Genitive				tzut1248	Tzutujil	14,7	-91,3	North America	Mayan	Mayan	FALSE	FALSE		
+mss	Absent				Possessive suffixes				No dominant order				sout2985	Miwok (Southern Sierra)	37,5	-120,0	North America	Miwok	Penutian	FALSE	TRUE		
+zqc	Absent				Possessive prefixes				Genitive-Noun				copa1236	Zoque (CopainalÃ¡)	17,0	-93,3	North America	Mixe-Zoque	Mixe-Zoque	TRUE	TRUE		
+mxc	Absent				No possessive affixes				Noun-Genitive				sanm1295	Mixtec (Chalcatongo)	17,1	-97,6	North America	Mixtecan	Oto-Manguean	TRUE	TRUE		
+kha	Absent				Possessive suffixes				Genitive-Noun				halh1238	Khalkha	47,0	105,0	Eurasia	Mongolic	Altaic	TRUE	TRUE		
+koa	Exists				Possessive prefixes				Genitive-Noun				koas1236	Koasati	34,8	-85,2	North America	Muskogean	Muskogean	TRUE	TRUE		
+ing	Absent				No possessive affixes				Genitive-Noun				ingu1240	Ingush	43,2	45,1	Eurasia	Nakh	Nakh-Daghestanian	FALSE	TRUE		
+nca	Absent				No possessive affixes				Noun-Genitive				carn1240	Nicobarese (Car)	9,0	93,0	Eurasia	Nicobarese	Austro-Asiatic	FALSE	FALSE		
+sah	Absent				No possessive affixes				Genitive-Noun				sahu1245	Sahu	1,2	127,5	Papunesia	North Halmaheran	West Papuan	FALSE	FALSE		
+may	Absent				Possessive prefixes				No dominant order				maib1239	Maybrat	-1,3	132,5	Papunesia	North-Central Bird's Head	West Papuan	TRUE	TRUE		
+chk	Absent				No possessive affixes				Genitive-Noun				chuk1273	Chukchi	67,0	-173,0	Eurasia	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	TRUE	TRUE		
+ond	Absent				Possessive prefixes				No dominant order				onei1249	Oneida	43,0	-75,7	North America	Northern Iroquoian	Iroquoian	TRUE	TRUE		
+uhi	Absent				No possessive affixes				Genitive-Noun				atam1239	Uradhi	-11,9	142,4	Australia	Northern Pama-Nyungan	Pama-Nyungan	FALSE	FALSE		
+abk	Absent				Possessive prefixes				Genitive-Noun				abkh1244	Abkhaz	43,1	41,0	Eurasia	Northwest Caucasian	Northwest Caucasian	TRUE	TRUE		
+nbd	Absent				Possessive prefixes				Genitive-Noun				kenu1236	Nubian (Dongolese)	18,3	30,8	Africa	Nubian	Eastern Sudanic	FALSE	TRUE		
+mao	Absent				No possessive affixes				Noun-Genitive				maor1246	Maori	-40,0	176,0	Papunesia	Oceanic	Austronesian	FALSE	TRUE		
+sam	Absent				No possessive affixes				Noun-Genitive				samo1305	Samoan	-13,9	-171,8	Papunesia	Oceanic	Austronesian	FALSE	FALSE		
+dre	Absent				Possessive suffixes				Noun-Genitive				dehu1237	Drehu	-21,0	167,3	Papunesia	Oceanic	Austronesian	FALSE	TRUE		
+fij	Absent				Possessive suffixes				Noun-Genitive				fiji1243	Fijian	-17,8	178,0	Papunesia	Oceanic	Austronesian	TRUE	TRUE		
+poh	Absent				Possessive suffixes				No dominant order				pohn1238	Pohnpeian	6,9	158,3	Papunesia	Oceanic	Austronesian	FALSE	FALSE		
+pms	Exists				Possessive suffixes				Noun-Genitive				paam1238	Paamese	-16,5	168,3	Papunesia	Oceanic	Austronesian	FALSE	TRUE		
+yag	Absent				Possessive prefixes				Genitive-Noun				yagu1244	Yagua	-3,5	-72,0	South America	Peba-Yaguan	Peba-Yaguan	TRUE	TRUE		
+kzy	Absent								Genitive-Noun				komi1268	Komi-Zyrian	65,0	55,0	Eurasia	Permic	Uralic	FALSE	FALSE		
+fua	Absent				Possessive suffixes				Noun-Genitive				adam1253	Fulfulde (Adamawa)	9,2	13,5	Africa	Peul-Serer	Niger-Congo	FALSE	FALSE		
+cax	Exists				Possessive prefixes				Genitive-Noun				asha1243	Campa (Axininca)	-12,0	-74,0	South America	Pre-Andine Arawakan	Arawakan	FALSE	FALSE		
+qim	Absent				No possessive affixes				Genitive-Noun				imba1240	Quechua (Imbabura)	0,3	-78,0	South America	Quechuan	Quechuan	TRUE	TRUE		
+awt	Absent				No possessive affixes				Genitive-Noun				awtu1239	Awtuw	-3,6	142,0	Papunesia	Ram	Sepik	FALSE	FALSE		
+ram	Absent				Possessive prefixes				Genitive-Noun				rama1270	Rama	11,8	-83,8	North America	Rama	Chibchan	TRUE	TRUE		
+fre	Absent				No possessive affixes				Noun-Genitive				stan1290	French	48,0	2,0	Eurasia	Romance	Indo-European	TRUE	TRUE		
+spa	Absent				No possessive affixes				Noun-Genitive				stan1288	Spanish	40,0	-4,0	Eurasia	Romance	Indo-European	TRUE	TRUE		
+nez	Exists				Possessive prefixes				Genitive-Noun				nezp1238	Nez Perce	46,0	-116,0	North America	Sahaptian	Penutian	FALSE	TRUE		
+sal	Exists				Prefixes and suffixes				Noun-Genitive				sali1253	Salinan	36,0	-121,0	North America	Salinan	Salinan	FALSE	FALSE		
+amh	Absent				Possessive suffixes				Genitive-Noun				amha1245	Amharic	10,0	38,0	Africa	Semitic	Afro-Asiatic	FALSE	FALSE		
+aeg	Absent				Possessive suffixes				Noun-Genitive				egyp1253	Arabic (Egyptian)	30,0	31,0	Africa	Semitic	Afro-Asiatic	TRUE	TRUE		
+heb	Absent				Possessive suffixes				Noun-Genitive				hebr1245	Hebrew (Modern)	31,5	34,8	Eurasia	Semitic	Afro-Asiatic	TRUE	TRUE		
+snt	Absent				No possessive affixes				Genitive-Noun				nucl1632	Sentani	-2,6	140,6	Papunesia	Sentani	Sentani	FALSE	TRUE		
+sup	Absent				No possessive affixes				Genitive-Noun				supy1237	Supyire	11,5	-5,6	Africa	Senufo	Niger-Congo	TRUE	TRUE		
+ala	Absent				No possessive affixes				Genitive-Noun				alam1246	Alamblak	-4,7	143,3	Papunesia	Sepik Hill	Sepik	TRUE	TRUE		
+siu	Absent				Possessive suffixes				No dominant order				sius1254	Siuslaw	44,0	-124,0	North America	Siuslawan	Oregon Coast	FALSE	FALSE		
+kch	Absent				No possessive affixes				Genitive-Noun				koyr1240	Koyra Chiini	17,0	-3,0	Africa	Songhay	Songhay	FALSE	FALSE		
+ngi	Absent				No possessive affixes				Genitive-Noun				wang1291	Ngiyambaa	-31,8	145,5	Australia	Southeastern Pama-Nyungan	Pama-Nyungan	TRUE	TRUE		
+wem	Absent				Possessive suffixes				Genitive-Noun				west2443	Wembawemba	-35,3	144,0	Australia	Southeastern Pama-Nyungan	Pama-Nyungan	FALSE	FALSE		
+knd	Absent				No possessive affixes				Genitive-Noun				nucl1305	Kannada	14,0	76,0	Eurasia	Southern Dravidian	Dravidian	TRUE	TRUE		
+sul	Absent				Possessive prefixes				No dominant order				sulk1246	Sulka	-5,1	151,9	Papunesia	Sulka	Sulka	FALSE	FALSE		
+tkl	Absent				Possessive suffixes				Genitive-Noun				take1257	Takelma	42,5	-123,0	North America	Takelma	Takelma	FALSE	FALSE		
+yes	Absent												yess1239	Yessan-Mayo	-4,2	142,6	Papunesia	Tama Sepik	Sepik	FALSE	FALSE		
+tiw	Exists				No possessive affixes				Genitive-Noun				tiwi1244	Tiwi	-11,5	131,0	Australia	Tiwian	Tiwian	TRUE	TRUE		
+tli	Absent				Possessive prefixes				Genitive-Noun				tlin1245	Tlingit	59,0	-135,0	North America	Tlingit	Na-Dene	FALSE	TRUE		
+ton	Absent				Possessive prefixes				Genitive-Noun				tonk1249	Tonkawa	30,3	-96,8	North America	Tonkawa	Tonkawa	FALSE	FALSE		
+tru	Absent				Prefixes and suffixes				Genitive-Noun				trum1247	Trumai	-11,9	-53,6	South America	Trumai	Trumai	FALSE	TRUE		
+brs	Exists				No possessive affixes				Genitive-Noun				bara1380	Barasano	-0,2	-70,7	South America	Tucanoan	Tucanoan	TRUE	TRUE		
+eve	Exists				Possessive suffixes				Genitive-Noun				even1259	Evenki	56,0	125,0	Eurasia	Tungusic	Altaic	FALSE	TRUE		
+tun	Exists				Possessive prefixes				Genitive-Noun				tuni1252	Tunica	32,7	-91,0	North America	Tunica	Tunica	FALSE	TRUE		
+gua	Absent				Possessive prefixes				Genitive-Noun				para1311	GuaranÃ­	-26,0	-56,0	South America	Tupi-GuaranÃ­	Tupian	TRUE	TRUE		
+tur	Absent				Possessive suffixes				Genitive-Noun				nucl1301	Turkish	39,0	35,0	Eurasia	Turkic	Altaic	TRUE	TRUE		
+tuv	Absent				Possessive suffixes				Genitive-Noun				tuvi1240	Tuvan	52,0	95,0	Eurasia	Turkic	Altaic	FALSE	FALSE		
+san	Absent				No possessive affixes				Noun-Genitive				sang1328	Sango	5,0	18,0	Africa	Ubangi	Niger-Congo	TRUE	TRUE		
+hun	Absent				Possessive suffixes				Genitive-Noun				hung1274	Hungarian	47,0	20,0	Eurasia	Ugric	Uralic	FALSE	TRUE		
+vie	Absent				No possessive affixes				Noun-Genitive				viet1252	Vietnamese	10,5	106,5	Eurasia	Viet-Muong	Austro-Asiatic	TRUE	TRUE		
+wap	Exists				Possessive prefixes				Genitive-Noun				wapp1239	Wappo	38,5	-122,5	North America	Wappo	Wappo-Yukian	FALSE	FALSE		
+wra	Absent				Possessive prefixes				Genitive-Noun				wara1303	Warao	9,3	-61,7	South America	Warao	Warao	TRUE	TRUE		
+wry	Absent												wara1290	Waray (in Australia)	-13,2	131,3	Australia	Warayic	Gunwinyguan	FALSE	FALSE		
+wrn	Absent				Possessive prefixes				Noun-Genitive				wand1263	Warndarang	-14,4	135,6	Australia	Warndarang	Mangarrayi-Maran	FALSE	FALSE		
+was	Absent				Possessive prefixes				Genitive-Noun				wash1253	Washo	39,3	-120,0	North America	Washo	Washo	FALSE	FALSE		
+knk	Absent				No possessive affixes				Noun-Genitive				dera1248	Kanakuru	10,0	12,0	Africa	West Chadic	Afro-Asiatic	FALSE	FALSE		
+hau	Absent				Possessive suffixes				Noun-Genitive				haus1257	Hausa	12,0	7,0	Africa	West Chadic	Afro-Asiatic	TRUE	TRUE		
+djp	Absent				No possessive affixes				No dominant order				dhuw1249	Djapu	-12,7	136,0	Australia	Western Pama-Nyungan	Pama-Nyungan	FALSE	FALSE		
+mrt	Absent				Possessive suffixes				No dominant order				mart1255	Martuthunira	-20,8	116,5	Australia	Western Pama-Nyungan	Pama-Nyungan	TRUE	TRUE		
+knr	Absent				Possessive suffixes				Noun-Genitive				cent2050	Kanuri	12,0	13,0	Africa	Western Saharan	Saharan	FALSE	TRUE		
+dum	Absent								Genitive-Noun				vani1248	Dumo	-2,7	141,3	Papunesia	Western Skou	Skou	FALSE	FALSE		
+win	Exists				No possessive affixes				Genitive-Noun				wint1259	Wintu	41,0	-122,5	North America	Wintuan	Penutian	FALSE	FALSE		
+ung	Absent				Prefixes and suffixes				No dominant order	 			ngar1284	Ungarinjin	-16,3	126,0	Australia	Worrorran	Worrorran	FALSE	TRUE		
+snm	Absent				No possessive affixes				Genitive-Noun				sanu1240	Sanuma	4,5	-64,7	South America	Yanomam	Yanomam	TRUE	TRUE		
+ket	Absent				Possessive prefixes				Genitive-Noun				kett1243	Ket	64,0	87,0	Eurasia	Yeniseian	Yeniseian	FALSE	TRUE		
+yuc	Absent				Possessive prefixes				Genitive-Noun				yuch1247	Yuchi	35,8	-86,8	North America	Yuchi	Yuchi	FALSE	TRUE		
+yko	Absent				Possessive suffixes				Genitive-Noun				sout2750	Yukaghir (Kolyma)	65,8	150,8	Eurasia	Yukaghir	Yukaghir	FALSE	TRUE		
+mar	Exists				Possessive prefixes				Genitive-Noun				mari1440	Maricopa	33,2	-113,2	North America	Yuman	Hokan	TRUE	TRUE		
+die	Exists				Possessive prefixes				Genitive-Noun				kumi1248	DiegueÃ±o (Mesa Grande)	32,7	-116,2	North America	Yuman	Hokan	FALSE	FALSE		
+yur	Absent				Possessive prefixes				Genitive-Noun				yuro1248	Yurok	41,3	-124,0	North America	Yurok	Algic	FALSE	TRUE		
